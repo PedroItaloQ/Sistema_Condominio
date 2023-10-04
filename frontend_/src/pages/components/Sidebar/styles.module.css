@@ -1,0 +1,34 @@
+/* Em um arquivo CSS ou módulo de estilo */
+.sidebar {
+  width: 200px;
+  background-color: #5a5959;
+  color: #fff;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+}
+
+.sidebar ul {
+  margin-top: 25px;
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 30px;
+  margin-left: 35px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.sidebar a:hover {
+  background-color: rgb(243, 224, 201);
+  border-radius: 10px;
+  padding: 5px;
+}

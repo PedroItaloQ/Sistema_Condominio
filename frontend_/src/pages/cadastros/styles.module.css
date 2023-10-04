@@ -1,0 +1,113 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
+    padding: 20px;
+    margin-left: 190px;
+    margin-top: 170px;
+}
+
+.container label{
+    padding: 10px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rg{
+    font-size: 15px;
+    margin-top: 55px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.name{
+    font-size: 15px;
+    margin-top: 55px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.company{
+    font-size: 15px;
+    margin-top: 55px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.apt{
+    font-size: 15px;
+    margin-top: 55px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.labelBloco{
+    margin-left: 100px;
+}
+
+.bloco{
+    font-size: 15px;
+    margin-top: 55px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.labelDate{
+    margin-left: 150px;
+}
+
+.date{
+    margin-left: 0px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.labelVehicle{
+    margin-left: 50px;
+}
+
+.vehicle{
+    font-size: 15px;
+    margin-top: 55px;
+    margin-bottom: 50px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.labelPlate{
+    margin-left: 150px;
+}
+
+.plate{
+    font-size: 15px;
+    margin-top: 55px;
+    margin-bottom: 50px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.button{
+    padding: 5px;
+    border: none;
+    background-color: rgb(66, 255, 59);
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, .5);
+    cursor: pointer;
+}
+
+.button:active{
+    box-shadow: none;
+}

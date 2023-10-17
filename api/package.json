@@ -4,7 +4,8 @@
   "description": "SEQUENCIA PARA CRIAR O PROJETO\r Criar o arquivo package\r ### npm init",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
